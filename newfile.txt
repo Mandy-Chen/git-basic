@@ -1,1 +1,2 @@
 this is newfile.txt by Mandy Chen 2020-06-04   change the new file and update
+change the new file --second~
